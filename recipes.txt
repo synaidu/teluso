@@ -5,3 +5,13 @@ laddu
 rice
 sambar
 
+beans
+
+chicken
+pizza
+
+Thankyou
+
+
+Done all changes
+
